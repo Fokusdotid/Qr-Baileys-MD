@@ -12,10 +12,26 @@
     "url": "git+https://github.com/FokusDotId/Qr-Baileys-MD.git"
   },
   "keywords": [
-    "family-md"
+    "family-md",
+    "termux-whatsapp-bot",
+    "whatsapp-bot",
+    "whatsapp",
+    "js-whatsapp",
+    "games-wabot",
+    "wabot-aq",
+    "melcanz-bot",
+    "stikerinbot",
+    "adiwajshing/baileys",
+    "baileys-md",
+    "multi-device",
+    "md",
+    "shiraori-md",
+    "bot",
+    "scanner",
+    "wabot"
   ],
   "author": "FokusDotId",
-  "license": "ISC",
+  "license": "GPL-3.0 License",
   "bugs": {
     "url": "https://github.com/FokusDotId/Qr-Baileys-MD/issues"
   },
