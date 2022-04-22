@@ -1,0 +1,27 @@
+{
+  "name": "baileysmd-qr",
+  "version": "1.0.0",
+  "description": "Get Qr Code Baileys Multi Device",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FokusDotId/Qr-Baileys-MD.git"
+  },
+  "keywords": [
+    "family-md"
+  ],
+  "author": "FokusDotId",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FokusDotId/Qr-Baileys-MD/issues"
+  },
+  "homepage": "https://github.com/FokusDotId/Qr-Baileys-MD#readme",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.1.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
