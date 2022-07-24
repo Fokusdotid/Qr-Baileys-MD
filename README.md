@@ -6,6 +6,7 @@
 
 ## Cara Install
 
+## TERMUX? VPS? RDP? PANEL? bisa!
 ```
 $ git clone https://github.com/Fokusdotid/Qr-Baileys-MD.git
 $ cd Qr-Baileys-MD
