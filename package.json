@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/FokusDotId/Qr-Baileys-MD#readme",
   "dependencies": {
-    "@adiwajshing/baileys": "^4.1.0",
+    "@adiwajshing/baileys": "latest",
     "qrcode-terminal": "^0.12.0"
   }
 }
